@@ -1,0 +1,1 @@
+# netbootxyz-synology-config
